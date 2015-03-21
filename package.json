@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/dweinstein/node-last-line/issues"
   },
-  "homepage": "https://github.com/dweinstein/node-last-line"
+  "homepage": "https://github.com/dweinstein/node-last-line",
+  "dependencies": {
+    "slice-file": "^0.2.1"
+  }
 }
