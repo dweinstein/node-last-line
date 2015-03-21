@@ -15,3 +15,5 @@ lastLine('./path/to/file', function (err, res) {
 });
 ```
 
+# LICENSE
+MIT
