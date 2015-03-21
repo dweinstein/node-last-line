@@ -1,0 +1,26 @@
+{
+  "name": "last-line",
+  "version": "0.0.1",
+  "description": "get last line of a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dweinstein/node-last-line.git"
+  },
+  "keywords": [
+    "last",
+    "line",
+    "tail",
+    "tail",
+    "-n"
+  ],
+  "author": "dweinstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dweinstein/node-last-line/issues"
+  },
+  "homepage": "https://github.com/dweinstein/node-last-line"
+}
