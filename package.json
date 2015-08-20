@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/dweinstein/node-last-line",
   "dependencies": {
-    "slice-file": "^0.2.1"
+    "slice-file": "^1.0.0"
   }
 }
